@@ -7,7 +7,7 @@
 **Application:** Snapmaker Innovation Fund Phase 2 — **U1 Hardware Sponsorship**  
 **Category:** Other · **Originality:** Original New Idea · **Core software:** Closed source
 
-![Mila Animatronic Vision V1 design concept](assets/mila-animatronic-vision-v1-concept.png)
+**Design concept:** The detailed Animatronic Vision V1 reference image will be added here. The physical prototype does not yet exist.
 
 > **Concept illustration, not a photo of a finished prototype.** Parts, dimensions, materials and motion ranges shown in the concept are design targets requiring verification.
 

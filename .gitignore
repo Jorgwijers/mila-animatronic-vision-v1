@@ -1,0 +1,12 @@
+# Keep local Mila runtime files, build artifacts, and credentials out of this public presentation repository
+.env
+.env.*
+*.pem
+*.key
+secrets/
+private/
+backups/
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
